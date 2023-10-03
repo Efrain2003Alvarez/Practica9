@@ -1,0 +1,31 @@
+/* Estilos para el encabezado */
+header {
+    background-color: #343a40;
+    color: #fff;
+    padding: 100px 0;
+}
+
+header h1 {
+    font-size: 36px;
+}
+
+/* Estilos para la barra de navegación */
+.navbar {
+    background-color: #343a40;
+}
+
+.navbar-dark .navbar-brand, .navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+/* Estilos para las secciones */
+section {
+    padding: 50px 0;
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+}
